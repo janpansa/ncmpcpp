@@ -53,5 +53,5 @@ visualizer_sync_interval = "30"
 visualizer_in_stereo = "yes"
 visualizer_type = "spectrum" (spectrum/wave)
 #visualizer_type = "spectrum" (spectrum/wave)
-visualizer_look = "•▊"
-visualizer_sample_multiplier = 0.1
+visualizer_look = "■█"
+visualizer_sample_multiplier = 1
